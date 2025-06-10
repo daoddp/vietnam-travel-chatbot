@@ -19,7 +19,7 @@ Hệ thống tích hợp công nghệ **truy xuất ngữ nghĩa (RAG)** kết h
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/your-username/vietnam-travel-chatbot.git
+git clone https://github.com/daoddp/vietnam-travel-chatbot.git
 cd vietnam-travel-chatbot
 ```
 ### 2. Cài đặt thư viện cần thiết
