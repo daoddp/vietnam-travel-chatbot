@@ -1,0 +1,14 @@
+beautifulsoup4==4.13.4
+datasets==2.14.5
+fastapi==0.115.12
+numpy==2.3.0
+ollama==0.5.1
+pydantic==2.11.5
+python-dotenv==1.1.0
+pyvi==0.1.1
+rank_bm25==0.2.2
+Requests==2.32.4
+selenium==4.33.0
+sentence_transformers==3.0.1
+underthesea==6.8.4
+uvicorn==0.34.3
